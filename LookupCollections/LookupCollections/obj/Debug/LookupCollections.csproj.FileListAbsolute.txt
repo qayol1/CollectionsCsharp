@@ -1,0 +1,5 @@
+C:\csharp\Collections\LookupCollections\LookupCollections\bin\Debug\LookupCollections.exe.config
+C:\csharp\Collections\LookupCollections\LookupCollections\bin\Debug\LookupCollections.exe
+C:\csharp\Collections\LookupCollections\LookupCollections\bin\Debug\LookupCollections.pdb
+C:\csharp\Collections\LookupCollections\LookupCollections\obj\Debug\LookupCollections.exe
+C:\csharp\Collections\LookupCollections\LookupCollections\obj\Debug\LookupCollections.pdb

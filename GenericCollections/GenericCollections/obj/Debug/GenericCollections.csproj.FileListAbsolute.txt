@@ -1,0 +1,5 @@
+C:\csharp\Collections\GenericCollections\GenericCollections\bin\Debug\GenericCollections.exe.config
+C:\csharp\Collections\GenericCollections\GenericCollections\bin\Debug\GenericCollections.exe
+C:\csharp\Collections\GenericCollections\GenericCollections\bin\Debug\GenericCollections.pdb
+C:\csharp\Collections\GenericCollections\GenericCollections\obj\Debug\GenericCollections.exe
+C:\csharp\Collections\GenericCollections\GenericCollections\obj\Debug\GenericCollections.pdb

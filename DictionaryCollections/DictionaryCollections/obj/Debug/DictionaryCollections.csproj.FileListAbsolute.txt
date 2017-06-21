@@ -1,0 +1,5 @@
+C:\csharp\Collections\DictionaryCollections\DictionaryCollections\bin\Debug\DictionaryCollections.exe.config
+C:\csharp\Collections\DictionaryCollections\DictionaryCollections\bin\Debug\DictionaryCollections.exe
+C:\csharp\Collections\DictionaryCollections\DictionaryCollections\bin\Debug\DictionaryCollections.pdb
+C:\csharp\Collections\DictionaryCollections\DictionaryCollections\obj\Debug\DictionaryCollections.exe
+C:\csharp\Collections\DictionaryCollections\DictionaryCollections\obj\Debug\DictionaryCollections.pdb
